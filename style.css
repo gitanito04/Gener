@@ -1,4 +1,45 @@
-h1.gener{
-    font-weight: bold;
+header{
     text-align: center;
+}
+nav.navegador{
+    display: flex;
+}
+div.groc{
+    background-color:yellow ;
+    min-width: 33%;
+    height: 50px;
+}
+div.blau{
+    background-color:blue;
+    min-width: 33%;
+}
+div.roig{
+    background-color: red;
+    min-width: 33%;
+}
+article.media {
+    text-align: center;
+}
+div.mapa{
+    display: inline-block;
+}
+div.video{
+    display: inline-block;
+}
+div.verd{
+    background-color:green ;
+    min-width: 33%;
+    height: 50px;
+}
+
+span.Estudiar{
+    text-decoration: underline;
+}
+footer{
+    background-color: rgb(255, 255, 160);
+}
+span.Nombre{
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
 }
