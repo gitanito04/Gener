@@ -1,6 +1,9 @@
 header{
     text-align: center;
 }
+h1.Gener{
+    font-weight: bold;
+}
 nav.navegador{
     display: flex;
 }
